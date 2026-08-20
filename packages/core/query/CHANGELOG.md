@@ -1,5 +1,15 @@
 # @medusajs/query
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16508](https://github.com/medusajs/medusa/pull/16508) [`c660642e0dcba2a581086b5176ab8fbc06127ed8`](https://github.com/medusajs/medusa/commit/c660642e0dcba2a581086b5176ab8fbc06127ed8) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(search, query, types): return fields and relations not in the search index
+
+- Updated dependencies [[`51c48dcb472c3b232b88337030945b2b651e90f8`](https://github.com/medusajs/medusa/commit/51c48dcb472c3b232b88337030945b2b651e90f8), [`693310310610cf439fabb73230187028f2755696`](https://github.com/medusajs/medusa/commit/693310310610cf439fabb73230187028f2755696), [`2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543`](https://github.com/medusajs/medusa/commit/2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543)]:
+  - @medusajs/utils@2.20.0
+  - @medusajs/deps@2.20.0
+
 ## 2.19.0
 
 ### Patch Changes

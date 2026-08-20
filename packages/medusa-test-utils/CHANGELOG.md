@@ -1,5 +1,16 @@
 # Change Log
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16361](https://github.com/medusajs/medusa/pull/16361) [`51c48dcb472c3b232b88337030945b2b651e90f8`](https://github.com/medusajs/medusa/commit/51c48dcb472c3b232b88337030945b2b651e90f8) Thanks [@sradevski](https://github.com/sradevski)! - Add a postgres search provider
+
+- Updated dependencies [[`51c48dcb472c3b232b88337030945b2b651e90f8`](https://github.com/medusajs/medusa/commit/51c48dcb472c3b232b88337030945b2b651e90f8), [`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb), [`693310310610cf439fabb73230187028f2755696`](https://github.com/medusajs/medusa/commit/693310310610cf439fabb73230187028f2755696), [`2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543`](https://github.com/medusajs/medusa/commit/2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543), [`7479b07071e51f4fc6a7ddafe2c778e85c6eb61d`](https://github.com/medusajs/medusa/commit/7479b07071e51f4fc6a7ddafe2c778e85c6eb61d), [`c5d55adb2375d19b8ae3be750e9aca52cf22e964`](https://github.com/medusajs/medusa/commit/c5d55adb2375d19b8ae3be750e9aca52cf22e964)]:
+  - @medusajs/medusa@2.20.0
+  - @medusajs/framework@2.20.0
+  - @medusajs/core-flows@2.20.0
+
 ## 2.19.0
 
 ### Patch Changes

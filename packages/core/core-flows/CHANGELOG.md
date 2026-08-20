@@ -1,5 +1,14 @@
 # @medusajs/core-flows
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16429](https://github.com/medusajs/medusa/pull/16429) [`2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543`](https://github.com/medusajs/medusa/commit/2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(core-flows,utils): emit product-option-value.updated/deleted events
+
+- Updated dependencies [[`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb)]:
+  - @medusajs/framework@2.20.0
+
 ## 2.19.0
 
 ### Patch Changes

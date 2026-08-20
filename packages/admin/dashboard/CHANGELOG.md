@@ -1,5 +1,29 @@
 # @medusajs/dashboard
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16455](https://github.com/medusajs/medusa/pull/16455) [`b33f14a334769e9265b2c7ff1b120db183bc1e07`](https://github.com/medusajs/medusa/commit/b33f14a334769e9265b2c7ff1b120db183bc1e07) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(dashboard): reload on preload error
+
+- [#16513](https://github.com/medusajs/medusa/pull/16513) [`1a9fe477d265e8861ca68ef9a445b40d006b28ca`](https://github.com/medusajs/medusa/commit/1a9fe477d265e8861ca68ef9a445b40d006b28ca) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(dashboard): remove duplicate Medusa Cloud auth button
+
+- [#16450](https://github.com/medusajs/medusa/pull/16450) [`e528fc5bd2cbcd9995694953580a20e525eafb9c`](https://github.com/medusajs/medusa/commit/e528fc5bd2cbcd9995694953580a20e525eafb9c) Thanks [@lazerg](https://github.com/lazerg)! - fix(dashboard): set the lang attribute on the html element
+
+- [#16006](https://github.com/medusajs/medusa/pull/16006) [`5796a0c00f35eba2533847f6697fae8d7c282ae7`](https://github.com/medusajs/medusa/commit/5796a0c00f35eba2533847f6697fae8d7c282ae7) Thanks [@iruzen-dono](https://github.com/iruzen-dono)! - fix(dashboard): handle deleted stock locations in order fulfillment section
+
+- [#16495](https://github.com/medusajs/medusa/pull/16495) [`9dd56bf579747aa1f191c4990c90e91a168b634e`](https://github.com/medusajs/medusa/commit/9dd56bf579747aa1f191c4990c90e91a168b634e) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(dashboard): fix create fulfillment form select pagination issues
+
+- [#16425](https://github.com/medusajs/medusa/pull/16425) [`7e421e0f0c60abf64bcfeccea93071202ec78d55`](https://github.com/medusajs/medusa/commit/7e421e0f0c60abf64bcfeccea93071202ec78d55) Thanks [@sradevski](https://github.com/sradevski)! - Add support for configuring the global search in admin
+
+- [#16415](https://github.com/medusajs/medusa/pull/16415) [`c5d55adb2375d19b8ae3be750e9aca52cf22e964`](https://github.com/medusajs/medusa/commit/c5d55adb2375d19b8ae3be750e9aca52cf22e964) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - feat(dashboard,medusa,js-sdk,types): request and copy reset password link from dashboard
+
+- Updated dependencies [[`7e421e0f0c60abf64bcfeccea93071202ec78d55`](https://github.com/medusajs/medusa/commit/7e421e0f0c60abf64bcfeccea93071202ec78d55), [`c5d55adb2375d19b8ae3be750e9aca52cf22e964`](https://github.com/medusajs/medusa/commit/c5d55adb2375d19b8ae3be750e9aca52cf22e964)]:
+  - @medusajs/admin-shared@2.20.0
+  - @medusajs/js-sdk@2.20.0
+  - @medusajs/icons@2.20.0
+  - @medusajs/ui@4.2.2
+
 ## 2.19.0
 
 ### Minor Changes

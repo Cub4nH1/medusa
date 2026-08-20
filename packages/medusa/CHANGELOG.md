@@ -1,5 +1,78 @@
 # Change Log
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16361](https://github.com/medusajs/medusa/pull/16361) [`51c48dcb472c3b232b88337030945b2b651e90f8`](https://github.com/medusajs/medusa/commit/51c48dcb472c3b232b88337030945b2b651e90f8) Thanks [@sradevski](https://github.com/sradevski)! - Add a postgres search provider
+
+- [#16453](https://github.com/medusajs/medusa/pull/16453) [`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - chore(framework,medusa): log jwt verification failure
+
+- [#16457](https://github.com/medusajs/medusa/pull/16457) [`693310310610cf439fabb73230187028f2755696`](https://github.com/medusajs/medusa/commit/693310310610cf439fabb73230187028f2755696) Thanks [@sradevski](https://github.com/sradevski)! - Implement Medusa Cloud as a built-in search provider
+
+- [#16480](https://github.com/medusajs/medusa/pull/16480) [`7479b07071e51f4fc6a7ddafe2c778e85c6eb61d`](https://github.com/medusajs/medusa/commit/7479b07071e51f4fc6a7ddafe2c778e85c6eb61d) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(medusa): block field expansion pivots on the store order routes
+
+- [#16415](https://github.com/medusajs/medusa/pull/16415) [`c5d55adb2375d19b8ae3be750e9aca52cf22e964`](https://github.com/medusajs/medusa/commit/c5d55adb2375d19b8ae3be750e9aca52cf22e964) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - feat(dashboard,medusa,js-sdk,types): request and copy reset password link from dashboard
+
+- Updated dependencies [[`2101adb7eac34bdb90fa9606e875995105cf7f7c`](https://github.com/medusajs/medusa/commit/2101adb7eac34bdb90fa9606e875995105cf7f7c), [`51c48dcb472c3b232b88337030945b2b651e90f8`](https://github.com/medusajs/medusa/commit/51c48dcb472c3b232b88337030945b2b651e90f8), [`4e5a02bdcb47a410ac427a23f3d2a50440ab5379`](https://github.com/medusajs/medusa/commit/4e5a02bdcb47a410ac427a23f3d2a50440ab5379), [`c660642e0dcba2a581086b5176ab8fbc06127ed8`](https://github.com/medusajs/medusa/commit/c660642e0dcba2a581086b5176ab8fbc06127ed8), [`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb), [`693310310610cf439fabb73230187028f2755696`](https://github.com/medusajs/medusa/commit/693310310610cf439fabb73230187028f2755696), [`001923667da67b4969d4bdcdd72fe23eadb1cd7f`](https://github.com/medusajs/medusa/commit/001923667da67b4969d4bdcdd72fe23eadb1cd7f), [`2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543`](https://github.com/medusajs/medusa/commit/2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543), [`2aa3e3d57b8c10acddf9a5516032758b9a2ccaa9`](https://github.com/medusajs/medusa/commit/2aa3e3d57b8c10acddf9a5516032758b9a2ccaa9)]:
+  - @medusajs/admin-bundler@2.20.0
+  - @medusajs/search-postgres@2.20.0
+  - @medusajs/search-local@2.20.0
+  - @medusajs/caching-redis@2.20.0
+  - @medusajs/search@2.20.0
+  - @medusajs/framework@2.20.0
+  - @medusajs/file-s3@2.20.0
+  - @medusajs/core-flows@2.20.0
+  - @medusajs/caching@2.20.0
+  - @medusajs/draft-order@2.20.0
+  - @medusajs/analytics@2.20.0
+  - @medusajs/api-key@2.20.0
+  - @medusajs/auth@2.20.0
+  - @medusajs/cart@2.20.0
+  - @medusajs/currency@2.20.0
+  - @medusajs/customer@2.20.0
+  - @medusajs/file@2.20.0
+  - @medusajs/fulfillment@2.20.0
+  - @medusajs/index@2.20.0
+  - @medusajs/inventory@2.20.0
+  - @medusajs/link-modules@2.20.0
+  - @medusajs/locking@2.20.0
+  - @medusajs/notification@2.20.0
+  - @medusajs/order@2.20.0
+  - @medusajs/payment@2.20.0
+  - @medusajs/pricing@2.20.0
+  - @medusajs/product@2.20.0
+  - @medusajs/promotion@2.20.0
+  - @medusajs/rbac@2.20.0
+  - @medusajs/region@2.20.0
+  - @medusajs/sales-channel@2.20.0
+  - @medusajs/settings@2.20.0
+  - @medusajs/stock-location@2.20.0
+  - @medusajs/store@2.20.0
+  - @medusajs/tax@2.20.0
+  - @medusajs/translation@2.20.0
+  - @medusajs/user@2.20.0
+  - @medusajs/workflow-engine-inmemory@2.20.0
+  - @medusajs/workflow-engine-redis@2.20.0
+  - @medusajs/event-bus-redis@2.20.0
+  - @medusajs/cache-inmemory@2.20.0
+  - @medusajs/cache-redis@2.20.0
+  - @medusajs/event-bus-local@2.20.0
+  - @medusajs/analytics-local@2.20.0
+  - @medusajs/analytics-posthog@2.20.0
+  - @medusajs/auth-emailpass@2.20.0
+  - @medusajs/auth-github@2.20.0
+  - @medusajs/auth-google@2.20.0
+  - @medusajs/auth-oidc@2.20.0
+  - @medusajs/file-local@2.20.0
+  - @medusajs/fulfillment-manual@2.20.0
+  - @medusajs/locking-postgres@2.20.0
+  - @medusajs/locking-redis@2.20.0
+  - @medusajs/notification-local@2.20.0
+  - @medusajs/notification-sendgrid@2.20.0
+  - @medusajs/payment-stripe@2.20.0
+  - @medusajs/telemetry@2.20.0
+
 ## 2.19.0
 
 ### Minor Changes

@@ -1,5 +1,14 @@
 # @medusajs/file-s3
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16524](https://github.com/medusajs/medusa/pull/16524) [`001923667da67b4969d4bdcdd72fe23eadb1cd7f`](https://github.com/medusajs/medusa/commit/001923667da67b4969d4bdcdd72fe23eadb1cd7f) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - chore(file-s3): remove stale TODO comment
+
+- Updated dependencies [[`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb)]:
+  - @medusajs/framework@2.20.0
+
 ## 2.19.0
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @medusajs/caching-redis
 
+## 2.20.0
+
+### Minor Changes
+
+- [#16476](https://github.com/medusajs/medusa/pull/16476) [`4e5a02bdcb47a410ac427a23f3d2a50440ab5379`](https://github.com/medusajs/medusa/commit/4e5a02bdcb47a410ac427a23f3d2a50440ab5379) Thanks [@sradevski](https://github.com/sradevski)! - Use a 64bit hash key for cache, simplify caching storage mechanism
+
+### Patch Changes
+
+- Updated dependencies [[`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb)]:
+  - @medusajs/framework@2.20.0
+
 ## 2.19.0
 
 ### Patch Changes

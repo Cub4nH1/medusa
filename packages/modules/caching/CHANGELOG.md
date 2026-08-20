@@ -1,5 +1,14 @@
 # @medusajs/caching
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16496](https://github.com/medusajs/medusa/pull/16496) [`2aa3e3d57b8c10acddf9a5516032758b9a2ccaa9`](https://github.com/medusajs/medusa/commit/2aa3e3d57b8c10acddf9a5516032758b9a2ccaa9) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - fix(caching): remove unnecessary quadratic computation
+
+- Updated dependencies [[`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb)]:
+  - @medusajs/framework@2.20.0
+
 ## 2.19.0
 
 ### Patch Changes

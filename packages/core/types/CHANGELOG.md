@@ -1,5 +1,15 @@
 # @medusajs/types
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16508](https://github.com/medusajs/medusa/pull/16508) [`c660642e0dcba2a581086b5176ab8fbc06127ed8`](https://github.com/medusajs/medusa/commit/c660642e0dcba2a581086b5176ab8fbc06127ed8) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(search, query, types): return fields and relations not in the search index
+
+- [#16457](https://github.com/medusajs/medusa/pull/16457) [`693310310610cf439fabb73230187028f2755696`](https://github.com/medusajs/medusa/commit/693310310610cf439fabb73230187028f2755696) Thanks [@sradevski](https://github.com/sradevski)! - Implement Medusa Cloud as a built-in search provider
+
+- [#16415](https://github.com/medusajs/medusa/pull/16415) [`c5d55adb2375d19b8ae3be750e9aca52cf22e964`](https://github.com/medusajs/medusa/commit/c5d55adb2375d19b8ae3be750e9aca52cf22e964) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - feat(dashboard,medusa,js-sdk,types): request and copy reset password link from dashboard
+
 ## 2.19.0
 
 ### Patch Changes

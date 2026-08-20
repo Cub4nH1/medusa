@@ -1,5 +1,21 @@
 # @medusajs/framework
 
+## 2.20.0
+
+### Patch Changes
+
+- [#16453](https://github.com/medusajs/medusa/pull/16453) [`785fd2b8a978201638a4d8d5ae9eea483958c0fb`](https://github.com/medusajs/medusa/commit/785fd2b8a978201638a4d8d5ae9eea483958c0fb) Thanks [@NicolasGorga](https://github.com/NicolasGorga)! - chore(framework,medusa): log jwt verification failure
+
+- Updated dependencies [[`51c48dcb472c3b232b88337030945b2b651e90f8`](https://github.com/medusajs/medusa/commit/51c48dcb472c3b232b88337030945b2b651e90f8), [`c660642e0dcba2a581086b5176ab8fbc06127ed8`](https://github.com/medusajs/medusa/commit/c660642e0dcba2a581086b5176ab8fbc06127ed8), [`693310310610cf439fabb73230187028f2755696`](https://github.com/medusajs/medusa/commit/693310310610cf439fabb73230187028f2755696), [`2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543`](https://github.com/medusajs/medusa/commit/2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543), [`c5d55adb2375d19b8ae3be750e9aca52cf22e964`](https://github.com/medusajs/medusa/commit/c5d55adb2375d19b8ae3be750e9aca52cf22e964)]:
+  - @medusajs/utils@2.20.0
+  - @medusajs/types@2.20.0
+  - @medusajs/cli@2.20.0
+  - @medusajs/modules-sdk@2.20.0
+  - @medusajs/orchestration@2.20.0
+  - @medusajs/workflows-sdk@2.20.0
+  - @medusajs/deps@2.20.0
+  - @medusajs/telemetry@2.20.0
+
 ## 2.19.0
 
 ### Patch Changes
